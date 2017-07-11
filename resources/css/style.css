@@ -8,6 +8,7 @@
     /* flexbox setup */
     display: flex;
     flex-direction: row;
+    flex-align: center;
 }
 
 .flex > div {
